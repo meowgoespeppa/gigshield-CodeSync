@@ -29,7 +29,6 @@ Google Gemini provides natural language understanding for interactive user assis
 # Tech Stack
  
 Frontend:
-
 React
 
 TypeScript
@@ -41,25 +40,21 @@ Tailwind CSS
 Framer Motion
 
 Backend:
-
 FastAPI
 
 Python
 
 AI/ML:
-
 Google Gemini API
 
 Tesseract OCR
 
 Database/Storage: 
-
 Zustand 
 
 Browser Local Storage
 
 Other Tools/APIs:
-
 npm
 
 Uvicorn
