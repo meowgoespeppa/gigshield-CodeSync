@@ -72,12 +72,16 @@ git clone https://github.com/meowgoespeppa/gigshield-CodeSync.git
 
 # Frontend
 cd gigshield
+
 npm install
+
 npm run dev
 
 # Backend
 cd ../backend
+
 pip install fastapi uvicorn
+
 uvicorn main:app --reload
 
 Create a .env file and add the required API keys before running the project. 
