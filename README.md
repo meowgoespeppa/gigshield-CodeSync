@@ -25,7 +25,7 @@ Why we chose this approach:
 Google Gemini provides natural language understanding for interactive user assistance, while Tesseract OCR enables accurate text extraction from images. Together they improve usability and automate key tasks within the application.
 
 # Tech Stack
-
+ 
 Frontend:
 React
 TypeScript
