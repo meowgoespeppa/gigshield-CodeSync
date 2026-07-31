@@ -71,8 +71,8 @@ How to Run This Project:
 git clone https://github.com/meowgoespeppa/gigshield-CodeSync.git
 
 # Frontend
-cd gigshield\n
-npm install\n
+cd gigshield
+npm install
 npm run dev
 
 # Backend
