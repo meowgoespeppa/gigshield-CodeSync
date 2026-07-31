@@ -14,7 +14,9 @@ GigShield is an AI powered platform designed to support gig economy workers such
 
 # AI Component
 What AI is used:
+
 Google Gemini API
+
 Tesseract OCR
 
 What it does in the app:
@@ -27,27 +29,41 @@ Google Gemini provides natural language understanding for interactive user assis
 # Tech Stack
  
 Frontend:
+
 React
+
 TypeScript
+
 Vite
+
 Tailwind CSS
+
 Framer Motion
 
 Backend:
+
 FastAPI
+
 Python
 
 AI/ML:
+
 Google Gemini API
+
 Tesseract OCR
 
 Database/Storage: 
+
 Zustand 
+
 Browser Local Storage
 
 Other Tools/APIs:
+
 npm
+
 Uvicorn
+
 REST APIs
 
 Features Implemented:
