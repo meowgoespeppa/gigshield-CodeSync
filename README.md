@@ -1,4 +1,4 @@
-GigShield
+# GigShield
 By team CodeSync
 
 # Problem Statement Chosen
